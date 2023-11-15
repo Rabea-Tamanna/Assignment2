@@ -1,0 +1,32 @@
+
+
+.border{
+    border: 2px solid black;
+    width: 800px;
+    margin: 0px 188px;
+    padding:50px 80px;
+}
+
+
+img {
+    width: 20%;
+    float: right;
+    margin-left: 314px;
+}
+
+h2 {
+    width: 232px;
+    margin-top: 68px;
+}
+h1{
+    background-color: cadetblue;
+    color: white;
+}
+
+
+h3{
+    background-color: cadetblue;
+    width:795px;
+    text-align:left;
+    padding: 8px 0px;
+}
